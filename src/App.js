@@ -1,6 +1,7 @@
 import './App.css';
 import EmojiPicker from 'emoji-picker-react';
 import { useState } from 'react';
+import { Counter } from './Counter';
 
 //array of object
 
